@@ -1,2 +1,0 @@
-# reneariyama.github.io
-PacoLily
