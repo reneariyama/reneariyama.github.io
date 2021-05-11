@@ -15005,6 +15005,12 @@ body:not(.device-touch) .tagcloud a {
 	font-family: 'Poppins', sans-serif;
 }
 
+@media screen and (max-width: 600px) {
+	.wedding-head {
+	  font-size: 30px;
+	}
+  }
+
 .wedding-head .first-name,
 .wedding-head .last-name,
 .wedding-head .and {
